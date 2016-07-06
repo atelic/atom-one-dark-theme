@@ -80,7 +80,7 @@
    `(font-lock-warning-face ((t (:foreground ,atom-one-dark-mono-3 :bold t))))
 
    ;; mode-line
-   `(mode-line ((t (:background ,atom-one-dark-black :foreground ,atom-one-dark-silver))))
+   `(mode-line ((t (:background ,atom-one-dark-gray :foreground ,atom-one-dark-silver))))
    `(mode-line-buffer-id ((t (:weight bold))))
    `(mode-line-emphasis ((t (:weight bold))))
    `(mode-line-inactive ((t (:background ,atom-one-dark-gray))))
